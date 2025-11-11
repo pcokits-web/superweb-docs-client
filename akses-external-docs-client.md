@@ -13,7 +13,7 @@ Panduan ini ditujukan untuk **Client** dalam mengakses **External Documents**: l
 2. Pilih **Login → Client**  
 3. Halaman autentikasi: `https://pco-kit.co.id/portal/admin/authentication`  
 
-<img width="1913" height="951" alt="image" src="https://github.com/user-attachments/assets/91ab1d5c-8b90-426d-9413-f65a33de165e" />
+<img src="https://github.com/user-attachments/assets/91ab1d5c-8b90-426d-9413-f65a33de165e" alt="Login page" style="max-width:100%; height:auto; border-radius:6px;" />
 
 4. Masukkan **Email** dan **Password** yang dikirim oleh tim PCO Kits → klik **Login**
 
