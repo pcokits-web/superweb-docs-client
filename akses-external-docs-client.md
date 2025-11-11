@@ -24,7 +24,7 @@ Panduan ini ditujukan untuk **Client** dalam mengakses **External Documents**: l
 
 ## 🗂️ 2) Akses Menu *External Documents*
 
-<img width="1897" height="952" alt="image" src="https://github.com/user-attachments/assets/1b35c98f-61cc-459b-a8a7-a883ab884071" />
+<img src="https://github.com/user-attachments/assets/1b35c98f-61cc-459b-a8a7-a883ab884071" alt="External Documents view" style="max-width:100%; height:auto; border-radius:6px;" />
 
 Masuk ke **Sidebar → External Documents**.  
 Anda akan melihat daftar folder seperti **Agreement**, **Service Report**, **Certificates**, dan sebagainya — sesuai dengan dokumen yang **dibagikan ke perusahaan Anda**.
@@ -50,11 +50,11 @@ Anda akan melihat daftar folder seperti **Agreement**, **Service Report**, **Cer
 
 **Pratinjau (Preview):** klik nama **file** → pratinjau akan tampil di sisi kanan (PDF, gambar, dll.), atau klik ikon **👁️** untuk membuka tampilan detail.  
 
-<img width="1888" height="888" alt="image" src="https://github.com/user-attachments/assets/caef34e4-5b90-44fd-b555-1619026b1eb5" />
+<img src="https://github.com/user-attachments/assets/caef34e4-5b90-44fd-b555-1619026b1eb5" alt="Preview file" style="max-width:100%; height:auto; border-radius:6px;" />
 
 **Unduh (Download):** klik ikon **⬇️ Download/Unduh** pada file.
 
-<img width="1875" height="925" alt="image" src="https://github.com/user-attachments/assets/5626e3b3-8a8c-45fe-a2ad-3307a08d4c03" />
+<img src="https://github.com/user-attachments/assets/5626e3b3-8a8c-45fe-a2ad-3307a08d4c03" alt="Download file" style="max-width:100%; height:auto; border-radius:6px;" />
 
 > Jika tombol unduh tidak muncul, silakan hubungi Admin PCO Kits untuk pengecekan akses.
 
@@ -67,7 +67,7 @@ Anda akan melihat daftar folder seperti **Agreement**, **Service Report**, **Cer
 
 ## 🔎 5) Pencarian & Filter
 
-<img width="807" height="195" alt="image" src="https://github.com/user-attachments/assets/53a0e62e-32db-4703-bbd7-6fb055ac2fe9" />
+<img src="https://github.com/user-attachments/assets/53a0e62e-32db-4703-bbd7-6fb055ac2fe9" alt="Search and filter" style="max-width:100%; height:auto; border-radius:6px;" />
 
 - Ketik kata kunci pada **Search bar** (contoh: *“Service Report – Mar 2025 – Site A”*).  
 - Gunakan **Filter** (jika tersedia) untuk menyaring berdasarkan folder, tipe file, atau tanggal.
@@ -94,7 +94,7 @@ Anda akan melihat daftar folder seperti **Agreement**, **Service Report**, **Cer
 
 ## 💬 8) Bantuan — Cara Membuka Fitur Chat Bantuan
 
-<img width="1362" height="871" alt="image" src="https://github.com/user-attachments/assets/b8f7144a-c17f-4b94-aa3f-093ccbf3467d" />
+<img src="https://github.com/user-attachments/assets/b8f7144a-c17f-4b94-aa3f-093ccbf3467d" alt="Help Chat" style="max-width:100%; height:auto; border-radius:6px;" />
 
 1️⃣ Lihat ke **kanan bawah layar** portal Superweb.  
 2️⃣ Klik ikon **🗨️ Chat / Toggle Bantuan** (biasanya berbentuk gelembung percakapan 💬).  
@@ -112,11 +112,11 @@ Anda akan melihat daftar folder seperti **Agreement**, **Service Report**, **Cer
 
 ## 👤 9) Mengubah Profil atau Password
 
-<img width="1897" height="794" alt="image" src="https://github.com/user-attachments/assets/663e044a-0363-4ead-b327-d6f36454a1c6" />
+<img src="https://github.com/user-attachments/assets/663e044a-0363-4ead-b327-d6f36454a1c6" alt="My Profile page" style="max-width:100%; height:auto; border-radius:6px;" />
 
 1. Klik **My Profile** di kanan atas layar.  
 
-<img width="1888" height="882" alt="image" src="https://github.com/user-attachments/assets/9fea17f1-20f4-4a58-bf4e-bd0eea84abca" />
+<img src="https://github.com/user-attachments/assets/9fea17f1-20f4-4a58-bf4e-bd0eea84abca" alt="Change Password" style="max-width:100%; height:auto; border-radius:6px;" />
 
 2. Di bagian **Change Password**, masukkan **password lama** Anda.  
 3. Ketik **password baru** sesuai keinginan.  
